@@ -46,9 +46,9 @@ pheonix-bii-analysis
 ```
 
 ### References:
+  
+- Vizzuality. (2022) *Biodiversity Intactness: White Paper*, https://ai4edatasetspublicassets.blob.core.windows.net/assets/pdfs/io-biodiversity/Biodiversity_Intactness_whitepaper.pdf.
 
-- [NASA](https://planet.openstreetmap.org/) VIIRS Level-1 and Atmospheric Archive & Distribution Active Archive Center. Night Light Imagery for February 7, 2021, and February 16, 2021. [Data] *Access date: 11/15/24*
+- Vizzuality. [Data] [Biodiversity Intactness Index (BII) Time Series](https://planetarycomputer.microsoft.com/dataset/io-biodiversity) for 2017 and 2020. *Access date: 12/05/24* from https://planetarycomputer.microsoft.com/dataset/io-biodiversity
 
-- [Open Street Map (OSM)](https://planet.openstreetmap.org/) OSM Roads Free, Year Unknown [Data] *Access date: 11/15/24*
-
-- [Open Street Map (OSM)](https://planet.openstreetmap.org/) OSM Buildings A Free, Year Unkown [Data] *Access date: 11/15/24*
+- U.S. Census Bureau (2020) [Data] Arizone Subdivisions Shapefile  *Access date: 12/05/24* https://www.census.gov/programs-surveys/acs
