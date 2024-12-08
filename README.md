@@ -1,8 +1,7 @@
 *UCSB MEDS* - *EDS 220 - Working With Environmental Datasets in Python*
 
-# Pheonix Biodiversity Intactness Index Analysis
-### Mapping ......
-
+# Phoenix Biodiversity Intactness Index Analysis
+### Mapping the Change in Biodiversity from 2017 - 2020 in Phoenix, Arizona
 ![Python](https://img.shields.io/badge/Python-cornflowerblue?style=for-the-badge&logo=R) ![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-green?style=for-the-badge) ![GIS](https://img.shields.io/badge/GIS-purple?style=for-the-badge)  ![UCSB MEDS](https://img.shields.io/badge/UCSB%20MEDS-blue?style=for-the-badge) 
 
 **Author:** Nicole Pepper
