@@ -12,6 +12,8 @@
 ### About the Repo:
 [This repository](https://github.com/nicolelpepper/pheonix-bii-analysis) contains a Python Jupiter Notebook document that investigates the impacts of urban expansion by analyzing a dataset that captures values for the [Biodiversity Intactness Index (BII)](https://ai4edatasetspublicassets.blob.core.windows.net/assets/pdfs/io-biodiversity/Biodiversity_Intactness_whitepaper.pdf). [In 2021, Maricopa County —home to the Phoenix metropolitan area— was identified as the U.S. county with the most significant increase in developed land since 2001](https://www.washingtonpost.com/nation/interactive/2021/land-development-urban-growth-maps/). This rapid urban sprawl has profound implications for biodiversity and the health of surrounding natural ecosystems. I examine changes in BII in the Phoenix county subdivision area between 2017 and 2020, shedding light on how urban growth affects biodiversity over time.
 
+**Link to Project Notebook:** https://github.com/nicolelpepper/phoenix-bii-analysis/blob/main/phoenix_bii_analysis.ipynb
+
 ### Technical Highlights:
 - Programming in Python using `Jupyter Lab`
 - Data retreival from Microsoft STAC catalog with `pystac_client`
